@@ -1,7 +1,20 @@
+
 # Space Shooter Game
+
 Fly the spaceship and destroy the space ships on the way to destroy the alien base. A simple shoot-em-up game built using Python.
 
-## Usage
+
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+## Installation
+
+[Clone the project here:](https://github.com/pharaohmak/SpaceShooterGame.git)
+
+### Usage
 run
 ```python
 python main.py
@@ -10,60 +23,26 @@ python main.py
 or 
 
 ```python
-python3 main.py```
+python3 main.py
+```
+## Acknowledgements
+
+![Image text](https://yt3.ggpht.com/ytc/AMLnZu_eX41jzTt6cENVn9timgdy-lAg3DJhvod9Ejz_TQ=s176-c-k-c0x00ffffff-no-rj)
+Tech With Tim
+
+1.09M subscribers
+
+### Links
+- 💻 [Enroll in The Fundamentals of Programming w/ Python](https://tech-with-tim.teachable.com/p...)
+- 📸 [Instagram](https://www.instagram.com/tech_with_tim)
+- 🌎 [Website](https://techwithtim.net)
+- 📱 [Twitter](https://twitter.com/TechWithTimm)
+- ⭐ [Discord](https://discord.gg/pr2k55t)
+- 📝 [LinkedIn](https://www.linkedin.com/in/tim-rusci...)
+- 📂 [GitHub](https://github.com/techwithtim)
+- 🔊 [Podcast](https://anchor.fm/tech-with-tim)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-
-
-## Table of Contents
-1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
-### General Info
-***
-Write down general information about your project. It is a good idea to always put a project status in the readme file. This is where you can add it. 
-### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
-## Technologies
-***
-A list of technologies used within the project:
-* [Technology name](https://example.com): Version 12.3 
-* [Technology name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
-## Installation
-***
-A little intro about the installation. 
-```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
-```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
-## Collaboration
-***
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> Should it encompass several lines?
-> This is how you do it.
-## FAQs
-***
-A list of frequently asked questions
-1. **This is a question in bold**
-Answer to the first question with _italic words_. 
-2. __Second question in bold__ 
-To answer this question, we use an unordered list:
-* First point
-* Second Point
-* Third point
-3. **Third question in bold**
-Answer to the third question with *italic words*.
-4. **Fourth question in bold**
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
