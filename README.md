@@ -24,7 +24,7 @@ To set up the game locally, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 ```
-git clone https://github.com/your-username/space-shooter-game.git
+git clone https://github.com/pharaohmak/space-shooter-game.git
 ```
 2. Navigate to the project directory:
 ```
@@ -56,7 +56,7 @@ This space shooter game is open source and available under the [MIT License](LIC
 
 ## Contact
 
-For any inquiries or questions, please contact the project owner at [youremail@example.com](mailto:youremail@example.com).
+For any inquiries or questions, please contact the project owner at [alchemist@sleepingpharaoh.com.com](mailto:alchemist@sleepingpharaoh.com).
 
 Thank you for your interest in the Classic Space Shooter Game!
 
