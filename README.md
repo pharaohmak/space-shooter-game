@@ -2,22 +2,6 @@
 
 This repository contains the source code for a classic space shooter game built using Python. The game features a player-controlled spaceship that shoots down enemy ships while avoiding collisions with obstacles.
 
-## Features
-
-- Player-controlled spaceship: The game allows the player to control a spaceship with keyboard inputs, such as moving left, right, up, and down, and shooting bullets to destroy enemy ships.
-- Enemy ships: The game generates enemy ships that move in predefined patterns and shoot bullets at the player's spaceship.
-- Obstacles: The game includes obstacles, such as asteroids or other spaceships, that the player must avoid colliding with to stay alive.
-- Scoring system: The game keeps track of the player's score, which increases with each enemy ship destroyed.
-- Game over and restart: The game ends when the player's spaceship collides with an enemy ship or an obstacle, and provides an option to restart the game.
-
-## Technologies Used
-
-- Python: The game is built using Python, a popular programming language.
-- Pygame: Pygame is a set of Python modules designed for writing video games. It is used for handling game-related functionalities such as graphics, input, and sound.
-- Object-oriented programming (OOP): The game uses OOP principles to organize code into classes and objects for better code structure and modularity.
-- Game loop: The game implements a game loop, which is a continuous loop that handles game updates, rendering, and input processing.
-- Collision detection: The game includes collision detection logic to detect collisions between game objects, such as the player's spaceship, enemy ships, and obstacles.
-
 ## Setup
 
 To set up the game locally, follow these steps:
@@ -39,6 +23,23 @@ pip install pygame
 python main.py
 ```
 5. Play the game using keyboard inputs to control the spaceship and shoot down enemy ships.
+
+## Features
+
+- Player-controlled spaceship: The game allows the player to control a spaceship with keyboard inputs, such as moving left, right, up, and down, and shooting bullets to destroy enemy ships.
+- Enemy ships: The game generates enemy ships that move in predefined patterns and shoot bullets at the player's spaceship.
+- Obstacles: The game includes obstacles, such as asteroids or other spaceships, that the player must avoid colliding with to stay alive.
+- Scoring system: The game keeps track of the player's score, which increases with each enemy ship destroyed.
+- Game over and restart: The game ends when the player's spaceship collides with an enemy ship or an obstacle, and provides an option to restart the game.
+
+## Technologies Used
+
+- Python: The game is built using Python, a popular programming language.
+- Pygame: Pygame is a set of Python modules designed for writing video games. It is used for handling game-related functionalities such as graphics, input, and sound.
+- Object-oriented programming (OOP): The game uses OOP principles to organize code into classes and objects for better code structure and modularity.
+- Game loop: The game implements a game loop, which is a continuous loop that handles game updates, rendering, and input processing.
+- Collision detection: The game includes collision detection logic to detect collisions between game objects, such as the player's spaceship, enemy ships, and obstacles.
+
 
 ## Contributing
 
